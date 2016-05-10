@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ http://capitalprovision.com:3500/$1 [P,L]
